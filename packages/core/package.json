@@ -1,0 +1,22 @@
+{
+	"name": "@wdy-cli-fe/core",
+	"version": "1.0.0",
+	"description": "> TODO: description",
+	"author": "wandayun <wandayun@xdf.cn>",
+	"homepage": "",
+	"license": "ISC",
+	"main": "lib/index.js",
+	"directories": {
+		"lib": "lib",
+		"test": "__tests__"
+	},
+	"files": [
+		"lib"
+  ],
+  "scripts": {
+    "test":"echo \"run from core\""
+  },
+	"dependencies": {
+    "@wdy-cli-fe/utils":"^1.0.0"
+	}
+}
