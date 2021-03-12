@@ -1,6 +1,6 @@
 {
 	"name": "@wdy-cli-fe/core",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "> TODO: description",
 	"author": "wandayun <wandayun@xdf.cn>",
 	"homepage": "",
@@ -12,11 +12,11 @@
 	},
 	"files": [
 		"lib"
-  ],
-  "scripts": {
-    "test":"echo \"run from core\""
-  },
+	],
+	"scripts": {
+		"test": "echo \"run from core\""
+	},
 	"dependencies": {
-    "@wdy-cli-fe/utils":"^1.0.0"
+		"@wdy-cli-fe/utils": "^1.0.1"
 	}
 }
